@@ -148,3 +148,28 @@ body {
 	font-family: 'Open Sans', sans-serif;
 	font-size: 12px;
 }
+
+.info {
+  margin-top: 15px;
+  text-align: center;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+}
+
+a {
+  font-family: 'Open Sans', sans-serif;
+	font-size: 13px;
+  font-weight: 700;
+  color: #c0392b;
+  text-decoration: none;
+}
+
+#info {
+  margin-top: 10px;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+#info li {
+  margin: 10px 0;
+}
